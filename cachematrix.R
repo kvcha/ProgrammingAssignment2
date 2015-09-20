@@ -1,4 +1,4 @@
-## This functions expanding classic matrix function, adding possibility to lookup cache for return of matrix. 
+## This functions expand classic matrix function, adding possibility to lookup cache for return of matrix. 
 
 ## Seting default matrix, binding "result" variable, making list of operating functions.    
 
